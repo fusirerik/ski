@@ -19,3 +19,5 @@ Highcharts.merge(true, options, {
     }
 });
 */new Highcharts.Chart("highcharts-624b9c57-4bcc-4b83-866c-e4afa6c8b63a", options);}}})();
+
+//<div id="highcharts-624b9c57-4bcc-4b83-866c-e4afa6c8b63a"></div><
