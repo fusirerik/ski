@@ -19,4 +19,4 @@ Highcharts.merge(true, options, {
     }
 });
 */new Highcharts.Chart("highcharts-c75c9e8d-9f92-4241-9a31-ba94796a3fb1", options);}}})();
-// <div id="highcharts-c75c9e8d-9f92-4241-9a31-ba94796a3fb1"></div><script>
+// <div id="highcharts-c75c9e8d-9f92-4241-9a31-ba94796a3fb1"></div>
